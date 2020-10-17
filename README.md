@@ -54,6 +54,8 @@ https://vk.com/dev.php?method=first_guide
 
 https://aistconf.org
 
+My jupyter notebook is [here](Untitled.ipynb)
+
 
 column1 | column2 | column 3
 :------ | ------: | :------:
