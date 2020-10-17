@@ -42,3 +42,20 @@ Why do we use it?
 I like cats
 
 I like dogs
+
+
+![image is here](segmentation_100.JPG)
+
+![not my cat ((](https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg)
+
+[VK API](https://vk.com/dev.php?method=first_guide)
+
+https://vk.com/dev.php?method=first_guide
+
+https://aistconf.org
+
+
+column1 | column2 | column 3
+:------ | ------: | :------:
+text 1  | text 2  | text 3
+text 4  | text 5  | text 6
