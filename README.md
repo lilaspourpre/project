@@ -44,7 +44,7 @@ I like cats
 I like dogs
 
 
-![image is here](segmentation_100.JPG)
+![image is here](img/segmentation_100.JPG)
 
 ![not my cat ((](https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg)
 
